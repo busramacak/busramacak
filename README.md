@@ -3,6 +3,9 @@
 
 <img src="https://media.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif" width="100"/>  
 
+* For 2 years i've been working professionally on Android software development for mobile devices.
+* I'm currently working on a Weather Forecast project. ⛈️
+* With the Weather Forecast project, I am improving myself on Kotlin, Location, Okhttp, Nav Component, Json.. technologies.
 
 ### Connect with me
 busramacak@outlook.com
