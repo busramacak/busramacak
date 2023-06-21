@@ -8,7 +8,7 @@
 * With the Weather Forecast project, I am improving myself on Kotlin, Location, Okhttp, Nav Component, Json.. technologies.
 
 ### Connect with me
-busramacak@outlook.com
+📫 You can reach me at busramacak@outlook.com
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin)](https://www.linkedin.com/in/busramacak/)
 
