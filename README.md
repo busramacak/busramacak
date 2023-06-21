@@ -6,6 +6,8 @@
 * For 2 years i've been working professionally on Android software development for mobile devices.
 * I'm currently working on a Weather Forecast project. ⛈️
 * With the Weather Forecast project, I am improving myself on Kotlin, Location, Okhttp, Nav Component, Json.. technologies.
+* [check out my cv](https://github.com/busramacak/busramacak/files/11817161/resume.2.pdf)
+
 
 ### Connect with me
 📫 You can reach me at busramacak@outlook.com
