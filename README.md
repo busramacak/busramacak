@@ -4,9 +4,9 @@
 <img src="https://media.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif" width="100"/>  
 
 * For 2 years i've been working professionally on Android software development for mobile devices.
-* I'm currently working on a Weather Forecast project. ⛈️
-* With the Weather Forecast project, I am improving myself on Kotlin, Location,Retrofit, Okhttp, Nav Component.. technologies.
-* [check out my cv](https://github.com/busramacak/busramacak/files/13013178/Busra_Macak_Resume_18-10-2023-13-49-56.pdf)
+* I'm currently working on a Planner project. ⛈️
+* With Planner and CoinTicker, I am developing my skills in Kotlin, Firebase technologies, base structures, notifications, Retrofit, navigation, Hilt, and other technologies.
+* [check out my cv](https://github.com/user-attachments/files/16694216/Busra-Macak-FlowCV-Resume-20240821.2.pdf)
 
 ### Connect with me
 
